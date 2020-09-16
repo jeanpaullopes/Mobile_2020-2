@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minha Primeira APP</string>
+    <string name="nomeApp">Minha Primeira App</string>
+    <string name="profe">MC Jean Paul</string>
+    <string name="placeholder_senha">senha</string>
+    <string name="placeholder_login">login usuário</string>
+    <string name="title_activity_segunda">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
