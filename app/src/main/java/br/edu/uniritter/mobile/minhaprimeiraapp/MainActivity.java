@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
     public void botaoClick(View view) {
         Button button = (Button) findViewById(R.id.button2);
         button.setText("clicado");
-        Intent intent = new Intent(this, SegundaActivity.class);
+        Intent intent = new Intent(this, ActivityRecycler.class);
         startActivity(intent);
 
     }
